@@ -25,17 +25,17 @@ To Initialize:`node node_modules/jasmine/bin/jasmine init`
 
 To run:`npm test`
 
-##### Features
+#### Features
 ---
 * send emojis :smile:
 * keyboard support :musical_keyboard:
 * online users count statistic :ghost:
 
-##### Screenshots
+#### Screenshots
 ---
-### Screenshot 1
+##### Screenshot 1
 ![Img1](https://github.com/Kuljeet-123/Chat-App-Using-Node.js/blob/master/images/img.png?raw=true)
 
-### Screenshot 2
+##### Screenshot 2
 
 ![Img2](https://github.com/Kuljeet-123/Chat-App-Using-Node.js/blob/master/images/img2.png?raw=true)
