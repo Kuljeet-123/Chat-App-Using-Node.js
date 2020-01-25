@@ -19,11 +19,11 @@ Server will run on port **3000**. Go to web browser on page [localhost:3000](htt
 ---
 For Testing Install `Jasmine` 
 
-To Install :`npm install --save-dev jasmine`
+* To Install :`npm install --save-dev jasmine`
 
-To Initialize:`node node_modules/jasmine/bin/jasmine init`
+* To Initialize:`node node_modules/jasmine/bin/jasmine init`
 
-To run:`npm test`
+* To run:`npm test`
 
 #### Features
 ---
