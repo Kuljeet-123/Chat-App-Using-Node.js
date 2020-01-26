@@ -1,5 +1,5 @@
 # ChatApp
-Simply chat application based on **Node.js**, **Express** & **Socket**.**io** 
+Simply Chat Application based on **Node.js**, **Express** & **Socket**.**io** 
 
 #### Installation
 ---
